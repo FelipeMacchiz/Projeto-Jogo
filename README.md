@@ -2,6 +2,7 @@
 
 ## Caça a Matemática  
 
+Para jogar, basta [clicar aqui.](https://felipemacchiz.github.io/Projeto-Jogo/)  
   
 Os controles dos jogadores são:  
 
@@ -11,9 +12,9 @@ Jogador 1
    - Pular: [W]  
 
 Jogador 2  
-   - Andar para frente: [Seta para Direita]  
-   - Andar para trás: [Seta para Esquerda]  
-   - Pular: [Seta para Cima]  
+   - Andar para frente:	:arrow_right:
+   - Andar para trás: :arrow_left: 
+   - Pular: :arrow_up: 
   
 Selecione o número de jogadores no menu principal. O quadrado que tiver a borda amarela indica o número de jogadores que irão jogar, 1 ou 2.  
   
