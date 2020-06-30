@@ -20,7 +20,7 @@ Jogador 2
    - Pular: :arrow_up: 
    - Ação: :arrow_down:  
    
-> Apertando duas vezes o botão "Pular" você consegue dar dois pulos! ***(Dica: espere o jogador começar a cair para dar pulos maiores)***  
+> Apertando duas vezes o botão "Pular" você consegue dar dois pulos! ***(Dica: para dar pulos maioresm, pule e espere o jogador começar a cair para pular de novo para dar pulos maiores)***  
   
 ### Seleção de jogadores  
   
