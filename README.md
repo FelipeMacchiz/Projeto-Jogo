@@ -20,7 +20,7 @@ Jogador 2
    - Pular: :arrow_up: 
    - Ação: :arrow_down:  
    
-> Apertando duas vezes o botão "Pular" você consegue dar dois pulos! ***(Dica: para dar pulos maioresm, pule e espere o jogador começar a cair para pular de novo para dar pulos maiores)***  
+> Apertando duas vezes o botão "Pular" você consegue dar dois pulos! ***(Dica: para dar pulos maiores, pule e espere o jogador começar a cair para pular de novo para dar pulos maiores)***  
   
 ### Seleção de jogadores  
   
@@ -37,7 +37,7 @@ O obstáculo da fase são as armadilhas, o jogador que cair nela irá para o com
   
 #### - Fase 2: A Praia  
 O objetivo dessa fase é achar as placas de madeira e responder a pergunta, se acertarem, os dois ganham uma chave. Ao todo são 4 plaquinhas que os jogadores deverão encontrar.  
-Os obstaculos dessa fase são os Krabs, os carangueijos, e ao ser pego por eles, você volta para o começo da fase.  
+Os obstaculos dessa fase são os Krabs, os caranguejos, e ao ser pego por eles, você volta para o começo da fase.  
   
 #### - Fase 3: A Cidade Tóxica  
 O objetivo dessa fase é coletar todos os lixos que encontrar, cada lixo dará uma chave para salvar o lobo.  
@@ -50,7 +50,7 @@ Os obstáculos dessa fase são os Krabs.
 ## Produção 
   
 O jogo foi feito na plataforma [Godot Engine](https://godotengine.org/), que tem uma linguagem própria chamada GDScript.  
-As telas no Godot são feitas com conjuntos de _cenas_, e estas cenas são conjuntos de _nós_, que podem ser uma imagem, um texto, um boneco, uma caixa de colisão, um ponto que marca uma posição, etc.; e é com esse conjunto de nós que fazemos os personagens, o cenário, os objetos para o jogador pegar, inimigos; ou seja, tudo que aparece na tela é um nó. E separamos os nós em cenas para nos organizar melhor.  
+As telas no Godot são feitas com conjuntos de _cenas_, e essas cenas são conjuntos de _nós_, que podem ser uma imagem, um texto, um boneco, uma caixa de colisão, um ponto que marca uma posição, etc.; e é com esse conjunto de nós que fazemos os personagens, o cenário, os objetos para o jogador pegar, inimigos; ou seja, tudo que aparece na tela é um nó. E separamos os nós em cenas para nos organizar melhor.  
   
 ### - Códigos  
   
