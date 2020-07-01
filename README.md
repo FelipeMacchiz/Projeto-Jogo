@@ -46,3 +46,14 @@ Os obstáculos dessa fase são as nuvens tóxicas, e você deve evitá-los para 
 #### - Fase 4: O Parque  
 O objetivo dessa fase é recolher todos os lixos jogados pelo parque. Cada lixo recolhido dá uma chave para salvar o lobo.  
 Os obstáculos dessa fase são os Krabs.  
+
+## Produção 
+  
+O jogo foi feito na plataforma [Godot Engine](https://godotengine.org/), que tem uma linguagem própria chamada GDScript.  
+As telas no Godot são feitas com conjuntos de _cenas_, e estas cenas são conjuntos de _nós_, que podem ser uma imagem, um texto, um boneco, uma caixa de colisão, um ponto que marca uma posição, etc.; e é com esse conjunto de nós que fazemos os personagens, o cenário, os objetos para o jogador pegar, inimigos; ou seja, tudo que aparece na tela é um nó. E separamos os nós em cenas para nos organizar melhor.  
+  
+### - Códigos  
+  
+Os códigos foram feitos em [GDScript](https://docs.godotengine.org/pt_BR/stable/getting_started/scripting/gdscript/gdscript_basics.html), uma linguagem de alto nível, de tipagem dinâmica com uma sintaxe semelhante a linguagem [Python](https://www.python.org/).  
+  
+Foi utilizado os códigos, por exemplo, para movimentação do jogador, transição de tela, configurações de número de jogadores, escolha do personagem, verificar o nível e se os jogadores atingiram os objetivos.
